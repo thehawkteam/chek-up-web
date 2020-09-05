@@ -2,4 +2,4 @@
 Checking the site's working mechanism
 
 chmod +x install.sh
-facebook:فريق الصقور الالكترونية
+facebook:فرقة الصقور الالكترونية
